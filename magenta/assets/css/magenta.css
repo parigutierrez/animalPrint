@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+}
+
+p {
+  display: inline-block;
+  position: absolute;
+  left: 220px;
+  top: 65px;
+  width: 400px;
+}
